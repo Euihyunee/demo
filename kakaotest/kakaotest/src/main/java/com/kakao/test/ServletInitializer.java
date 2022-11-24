@@ -1,4 +1,4 @@
-package test.kakaotest;
+package com.kakao.test;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
