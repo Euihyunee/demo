@@ -32,8 +32,8 @@
   );
 
   /* Sidebar */
-  --site-title-color: #717070;
-  --site-subtitle-color: #868686;
+  --site-title-color: rgba(246, 254, 255, 99%);
+  --site-subtitle-color: rgba(246, 254, 255, 99%);
   --sidebar-bg: #1e1e1e;
   --sidebar-border-color: #292929;
   --sidebar-muted-color: #868686;
@@ -101,9 +101,9 @@
   /* Code highlight colors */
   --language-border-color: #2d2d2d;
   --highlight-bg-color: #151515;
-  --highlighter-rouge-color: #c9def1;
+  --highlighter-rouge-color: #ff624e;
   --highlight-lineno-color: #808080;
-  --inline-code-bg: rgba(255, 255, 255, 0.05);
+  --inline-code-bg: #272822;
   --code-color: #b0b0b0;
   --code-header-text-color: #6a6a6a;
   --code-header-muted-color: #353535;
