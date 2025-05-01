@@ -15,3 +15,6 @@ gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # 외부 링크 새 탭으로 열기
 gem 'jekyll-target-blank'
+
+# sitemap 생성 플러그인
+gem 'jekyll-sitemap'
